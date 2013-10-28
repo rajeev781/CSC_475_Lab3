@@ -52,7 +52,7 @@ class MatrixMultiplication
             }
          }
  
-         System.out.println("Product of entered matrices:-");
+         System.out.println("Product of entered matrices:");
  
          for ( c = 0 ; c < m ; c++ )
          {
